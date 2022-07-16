@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B3E84D552882C7B900E8D2B3 /* ContentView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E84D542882C7B900E8D2B3 /* ContentView-ViewModel.swift */; };
 		B3FB13142843C62700BB528E /* WordScrambleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3FB13132843C62700BB528E /* WordScrambleApp.swift */; };
 		B3FB13162843C62700BB528E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3FB13152843C62700BB528E /* ContentView.swift */; };
 		B3FB13182843C62900BB528E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3FB13172843C62900BB528E /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B3E84D542882C7B900E8D2B3 /* ContentView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-ViewModel.swift"; sourceTree = "<group>"; };
 		B3FB13102843C62700BB528E /* WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3FB13132843C62700BB528E /* WordScrambleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleApp.swift; sourceTree = "<group>"; };
 		B3FB13152843C62700BB528E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				B3FB13232844017500BB528E /* start.txt */,
 				B3FB13132843C62700BB528E /* WordScrambleApp.swift */,
 				B3FB13152843C62700BB528E /* ContentView.swift */,
+				B3E84D542882C7B900E8D2B3 /* ContentView-ViewModel.swift */,
 				B3FB13172843C62900BB528E /* Assets.xcassets */,
 				B3FB13192843C62900BB528E /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B3FB13162843C62700BB528E /* ContentView.swift in Sources */,
+				B3E84D552882C7B900E8D2B3 /* ContentView-ViewModel.swift in Sources */,
 				B3FB13142843C62700BB528E /* WordScrambleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
